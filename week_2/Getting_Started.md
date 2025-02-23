@@ -1,4 +1,3 @@
-Current
 https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/02-workflow-orchestration/README.md
 
 https://www.youtube.com/watch?v=o79n-EVpics
